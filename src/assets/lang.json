@@ -1,0 +1,24 @@
+{
+    "en":{
+        "welcomeMessage":"Welcome !",
+        "Greetingmessage":"We hope you are enjoy learning React.js",
+        "wellWish":"Have a great day !",
+        "learnReact":"We laerned how to use i18n with React",
+        "User":"<student>  student in this session"
+    },
+    "hi":{
+        "welcomeMessage":"स्वागत है!",
+        "Greetingmessage":"हमें आशा है कि आपको React.js सीखने में आनंद आएगा",
+        "wellWish":"आपका दिन अच्छा रहे !",
+        "learnReact":"हमने React के साथ i18n का उपयोग करना सीखा",
+        "User":"इस सत्र में <student> छात्र"
+    },
+    "mh":{
+        "welcomeMessage":"स्वागत आहे!",
+        "Greetingmessage":"आम्हाला आशा आहे की तुम्हाला React.js शिकण्यात आनंद वाटेल",
+        "wellWish":"तुमचा दिवस चांगला जावो!",
+        "learnReact":"React सह i18n कसे वापरायचे ते आम्ही शिकलो",
+        "User":"या सत्रात <student> विद्यार्थी"
+    }
+    
+}
